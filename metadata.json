@@ -1,0 +1,6 @@
+{
+  "name": "UNEX Vision",
+  "description": "Aplicativo profissional de streaming IPTV & Cinema VOD para TV Box e Celular. Arquitetura modular limpa com Xtream Codes, M3U, EPG, Controle Parental (+18 PIN) e player unificado 10-Foot UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
